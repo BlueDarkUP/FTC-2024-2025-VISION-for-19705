@@ -24,7 +24,8 @@
 
 **视觉原理示意图：**
 
-[![视觉原理图](1ad4d266f366851030d23eaa3b8db86.jpg)](d0aa3ce03e5fef25c82b2ab1efc2bd6.jpg)
+[![视觉原理图](1ad4d266f366851030d23eaa3b8db86.jpg)](OnDriverHub)
+[![视觉草稿图](d0aa3ce03e5fef25c82b2ab1efc2bd6.jpg](OnPaper)
 *图：19705 机器人可抓取范围示意图*
 
 ## 基于与致谢
