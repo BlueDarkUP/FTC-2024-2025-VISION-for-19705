@@ -51,7 +51,7 @@
 
 *   邮箱1: Blue_DarkMC@outlook.com
 *   邮箱2: BlueDarkUP@Gmail.com
-*   GitHub: [BlueDarkUP](https://github.com/BlueDarkUP) (如果这是你的GitHub用户名)
+*   GitHub: [BlueDarkUP](https://github.com/BlueDarkUP)
 
 ---
 
